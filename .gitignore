@@ -1,0 +1,18 @@
+# Local HFSS / solver outputs and large generated data
+*.aedt
+*.aedtresults/
+*.hfssresults/
+*.lock
+*.log
+*.tmp
+
+# Local datasets / exports not intended for public release
+private/
+raw-data/
+measurements-private/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
